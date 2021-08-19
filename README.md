@@ -21,4 +21,5 @@
 - Diretiva *ngFor:
     ~~~ html  
         <ap-photo *ngFor="let photo of photos" [url]= "photo.url" [description]="photo.description"></ap-photo>
-    
+- WebApi (npm start);
+- Services. @Injectable.
