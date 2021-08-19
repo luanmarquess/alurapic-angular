@@ -18,7 +18,7 @@
     ~~~ html
         <ap-photo url= "https://img.r7.com/images/moya-leao-branco-albino-atracao-glen-garriff-conservation-lion-sanctuary-23032021161516582?dimensions=771x420&no_crop=true'" description="Leão"></ap-photo>
 
-- Diretiva *ngFor
+- Diretiva *ngFor:
     ~~~ html  
         <ap-photo *ngFor="let photo of photos" [url]= "photo.url" [description]="photo.description"></ap-photo>
     
