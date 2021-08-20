@@ -1,4 +1,3 @@
-import { PhotoService } from './photos/photo/photo.service';
 import { Component } from '@angular/core';
 
 
@@ -7,13 +6,4 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
-  photos:Object[] = [];
-
-  constructor(photoService : PhotoService){
-    photoService
-    .listFormUser('Flavio')
-    .subscribe(photos => this.photos = photos);
-  }
-
-}
+export class AppComponent{}
