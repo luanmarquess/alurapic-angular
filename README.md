@@ -22,11 +22,11 @@
     ~~~ html  
         <ap-photo *ngFor="let photo of photos" [url]= "photo.url" [description]="photo.description"></ap-photo>
 - Consumir uma Web API através do serviço HttpClient;
-    - WebApi (npm start);
+    - WebApi (npm start).
 - Services. @Injectable;
 - interface;    
 - Implements OnInit;
-    - ngOnInit();
+    - ngOnInit().
 - CommonModule;
 - Routes: app.routing.module.ts;
-    - :userName == generic;
+    - :userName == generic.
