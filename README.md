@@ -39,4 +39,4 @@
 - debounceTime: adicionar freeze time para aplicar o filtro;
 - ngOnDestroy: boa pratica para livrar memória e liberar o subject que está emitindo valores enquanto o componente for exibido;
 - LoadButton;
-- @HostListener;
+- @HostListener.
