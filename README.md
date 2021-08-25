@@ -1,5 +1,26 @@
-# alurapic-angular
+# ALURAPIC ANGULAR
 
+## PROJETO
+- Projeto de uma série de quatro crusos ministrados pelo professor Flávio Almeida na plataforma da Alura. Objetivo da aplicação é criar réplica de uma rede social de imagens, onde o usuário poderá adicionar, remover, comentar e curtir o post.
+
+## TECNOLOGIAS
+- Angular;
+- TypeScript;
+- HTML;
+- Bootstrap;
+
+## COMO EXECUTAR O PROJETO
+- Instalar node version 8;
+- No terminal do VS Code:
+    - npm install
+    - ng serve --open
+- url: http://localhost:4200/user/flavio
+- Acessar o diretório api pelo prompt:
+    - npm install sqlite3;
+    - npm install; 
+    - npm start;
+
+### Anotações
 - ng new nomeDoProjeto (iniciar projeto com Angular Cli);
 - ng serve --open (no terminal, no diretório do projeto, subir um servidor local e abrir no navegador página padrão do angular);
 - {{}} data binding - Angular Expression;
