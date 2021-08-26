@@ -79,5 +79,5 @@
 - Validação de formulário de registro;
 - Como criar validador;
 - Validar de maneira assíncrona;
-- Submissão de dados.
+- Submissão de dados;
 
