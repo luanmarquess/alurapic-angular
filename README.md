@@ -20,7 +20,7 @@
     - npm install; 
     - npm start;
 
-### Anotações Curso 1;
+### Anotações Curso 1
 - ng new nomeDoProjeto (iniciar projeto com Angular Cli);
 - ng serve --open (no terminal, no diretório do projeto, subir um servidor local e abrir no navegador página padrão do angular);
 - {{}} data binding - Angular Expression;
@@ -62,7 +62,7 @@
 - LoadButton;
 - @HostListener;
 
-### Anotações Curso 2;
+### Anotações Curso 2
 - Criação de um componente de login;
 - Validação de formulário;
 - Componentizar mensagens de validação;
