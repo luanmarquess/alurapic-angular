@@ -71,4 +71,13 @@
 - Acessar o header de resposta;
 - Armazenamento de token;
 - Segurança do token;
+- Papel do BehaviorSubject;
+- Utilização do Async pipe;
+- Implementação do logout;
+- Diretiva routerLink;
+- Criação de um componente de registro;
+- Validação de formulário de registro;
+- Como criar validador;
+- Validar de maneira assíncrona;
+- Submissão de dados.
 
