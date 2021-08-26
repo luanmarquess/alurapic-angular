@@ -20,7 +20,7 @@
     - npm install; 
     - npm start;
 
-### Anotações
+### Anotações Curso 1;
 - ng new nomeDoProjeto (iniciar projeto com Angular Cli);
 - ng serve --open (no terminal, no diretório do projeto, subir um servidor local e abrir no navegador página padrão do angular);
 - {{}} data binding - Angular Expression;
@@ -60,4 +60,15 @@
 - debounceTime: adicionar freeze time para aplicar o filtro;
 - ngOnDestroy: boa pratica para livrar memória e liberar o subject que está emitindo valores enquanto o componente for exibido;
 - LoadButton;
-- @HostListener.
+- @HostListener;
+
+### Anotações Curso 2;
+- Criação de um componente de login;
+- Validação de formulário;
+- Componentizar mensagens de validação;
+- Enviar crendenciais para a API;
+- Redirecionar e obter referências do template (ViewChild);
+- Acessar o header de resposta;
+- Armazenamento de token;
+- Segurança do token;
+
