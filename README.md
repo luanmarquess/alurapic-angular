@@ -80,12 +80,8 @@
 - Como criar validador;
 - Validar de maneira assíncrona;
 - Submissão de dados;
-<<<<<<< HEAD
 - Rotas filhas;
 - Buildar o projeto;
     - ng build --pord
 - Lazy loading e code splitting;
-- Interceptadores e envio de token
-=======
->>>>>>> 13081cd3792a99f0cfdab819e8d243abc4babb8b
-
+- Interceptadores e envio de token.
