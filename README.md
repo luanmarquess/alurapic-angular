@@ -85,4 +85,3 @@
     - ng build --pord
 - Lazy loading e code splitting;
 - Interceptadores e envio de token.
-
